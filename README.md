@@ -10,7 +10,7 @@ While I don’t consider myself a hardcore coder, I’m confident in my problem-
 - **Frontend Development:** HTML, CSS, React, Bootstrap  
 - **IDEs & Tools:** Visual Studio, Jupyter Notebook, Google Colab
 - 
-  ### Soft Skills
+  #### Soft Skills
 - Communication  
 - Networking
 - Leadership 
