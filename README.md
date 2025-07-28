@@ -1,7 +1,8 @@
 ## Sravani Tangallapally
 Hi! I'm Sravani Tangallapally, someone who enjoys building meaningful tech solutions that blend AI/ML with real-world usability. I have hands-on experience with Python, machine learning, and the MERN stack, and I love working on projects that make a difference.
 
-While I don’t consider myself a hardcore coder, I’m confident in my problem-solving abilities, value team collaboration, and take initiative when it comes to learning and leading. My work often focuses on bridging intelligent systems with intuitive design—whether it's through front-end interfaces or AI-driven models.
+I enjoy solving problems, collaborating with teams, and taking initiative in both learning and leadership. My work focuses on bridging intelligent systems with intuitive design—whether it's through front-end interfaces or AI-driven models.
+
 
 ### Technical Skills
 #### Exsisting Skills
@@ -47,7 +48,7 @@ While I don’t consider myself a hardcore coder, I’m confident in my problem-
 - **SQL (Basic & Intermediate)** – HackerRank
    
 ### Aspiration
-I aspire to become an **Interaction Designer** by combining the skills gained through **Human-Computer Interaction (HCI)** with my background in **Artificial Intelligence and Machine Learning (AI/ML)**.
+I aspire to become an **web Developer** or an **Interaction Designer** by combining the skills gained through **Human-Computer Interaction (HCI)** with my background in **Artificial Intelligence and Machine Learning (AI/ML)**.
 
 ### Contact
 
