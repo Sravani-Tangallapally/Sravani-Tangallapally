@@ -48,7 +48,7 @@ I enjoy solving problems, collaborating with teams, and taking initiative in bot
 - **SQL (Basic & Intermediate)** – HackerRank
    
 ### Aspiration
-I aspire to become an **web Developer** or an **Interaction Designer** by combining the skills gained through **Human-Computer Interaction (HCI)** with my background in **Artificial Intelligence and Machine Learning (AI/ML)**.
+I aspire to become a **Full Stack Web Developer** or an **AI Engineer** by leveraging my background in **Artificial Intelligence and Machine Learning (AI/ML)**.
 
 ### Contact
 
