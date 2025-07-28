@@ -4,6 +4,8 @@ Hi! I'm Sravani Tangallapally, someone who enjoys building meaningful tech solut
 While I don’t consider myself a hardcore coder, I’m confident in my problem-solving abilities, value team collaboration, and take initiative when it comes to learning and leading. My work often focuses on bridging intelligent systems with intuitive design—whether it's through front-end interfaces or AI-driven models.
 
 ### Technical Skills
+
+#### Exsisting Skills
 - **AI & ML Frameworks:** NumPy, Pandas, OpenCV, Matplotlib  
 - **Programming Languages:** C, Python, R  
 - **Database & Data Storage:** MySQL, MongoDB  
@@ -15,7 +17,13 @@ While I don’t consider myself a hardcore coder, I’m confident in my problem-
 - Networking
 - Leadership 
 - Problem Solving   
-- Task Management 
+- Task Management
+  
+  ### Planning to Learn
+- **Human-Computer Interaction (HCI)**  
+- **UI/UX & Interaction Design** (started)  
+- **Cloud Technologies:** AWS, Azure
+
 
 ### Projects I Worked On
 
