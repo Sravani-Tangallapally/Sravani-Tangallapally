@@ -19,7 +19,7 @@ I enjoy solving problems, collaborating with teams, and taking initiative in bot
 - Task Management
 #### Planning to Learn
 - **Human-Computer Interaction (HCI)**  
-- **UI/UX & Interaction Design** (started)  
+- **UI/UX & Interaction Design**   
 - **Cloud Technologies:** AWS, Azure
 
 
